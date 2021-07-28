@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import ButtonPrimary from "./misc/ButtonPrimary";
+import ButtonOutline from "./misc/ButtonOutline";
 const Hero = ({
   listUser = [
     {
