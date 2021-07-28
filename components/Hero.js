@@ -31,11 +31,9 @@ const Hero = ({
             Provide a network for all your needs with ease and fun using
             RDPStudio Free Nodes discover interesting features from us.
           </p>
-          <Link href="https://rdp-proxypool.herokuapp.com">
-            <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
+            <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all" href="https://rdp-proxypool.herokuapp.com">
                 <ButtonOutline>Lets Go!</ButtonOutline>
             </a>
-          </Link>
         </div>
         <div className="flex w-full">
           <div className="h-full w-full">

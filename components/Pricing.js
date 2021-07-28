@@ -58,11 +58,9 @@ const Pricing = () => {
                   $0 <span className="text-black-500">/ mo</span>
                 </p>
 
-          <Link href="https://rdp-proxypool.herokuapp.com">
-            <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                <ButtonOutline>Lets Go!</ButtonOutline>
-            </a>
-          </Link>
+          <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all" href="https://rdp-proxypool.herokuapp.com">
+              <ButtonOutline>Lets Go!</ButtonOutline>
+          </a>
               </div>
             </div>
           </div>
@@ -126,11 +124,9 @@ const Pricing = () => {
                 </h5>
                 <p>Let's subscribe with us and find the fun.</p>
               </div>
-          <Link href="https://rdp-proxypool.herokuapp.com">
-            <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                <ButtonOutline>Lets Go!</ButtonOutline>
-            </a>
-          </Link>
+          <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all" href="https://rdp-proxypool.herokuapp.com">
+              <ButtonOutline>Lets Go!</ButtonOutline>
+          </a>
             </div>
             <div
               className="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-60 sm:h-56 top-0 mt-8 mx-auto left-0 right-0"
