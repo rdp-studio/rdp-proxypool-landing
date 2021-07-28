@@ -100,11 +100,9 @@ const Header = () => {
             </LinkScroll>
           </ul>
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">
-            <Link href="https://rdp-proxypool.herokuapp.com">
-              <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                  <ButtonOutline>Lets Go!</ButtonOutline>
-              </a>
-            </Link>
+          <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all" href="https://rdp-proxypool.herokuapp.com">
+              <ButtonOutline>Lets Go!</ButtonOutline>
+          </a>
           </div>
         </nav>
       </header>
